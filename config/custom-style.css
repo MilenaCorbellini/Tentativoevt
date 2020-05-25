@@ -93,7 +93,7 @@
 .criticalEdition .head > .lb {display:block !important}
 .criticalEdition .orig, .criticalEdition .sic, .criticalEdition .abbr {display:none}
 /*.criticalEdition .choice .corr, .criticalEdition .choice .reg, .criticalEdition .choice .expan {color:purple !important} */
-.criticalEdition .del {display:none}
+/*.criticalEdition .del {display:none}*/
 
 .front .p .add {color:red !important}
 .criticalEdition .persName .lb {display:inline}
