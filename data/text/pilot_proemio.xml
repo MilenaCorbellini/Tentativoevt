@@ -301,7 +301,7 @@
                     </choice> 
                                 </lem>
                                 <rdg wit="#RC4c">
-                                    Tentativo 1550
+                                    Tentativo
                                 </rdg>
                                 
                             </app><lb/>no principia<del hand="#A1"
@@ -334,7 +334,7 @@
                                 
                                 <rdg wit="#RC4">
                                 <note> 2 versioni </note>
-                                     <del hand="#A3">Benché, l’animo no<choice>
+                                     Benché, l’animo no<choice>
                                     <orig>-</orig>
                                     <reg resp="#D.B."></reg>
                                 </choice><lb/>stro è (se la vita ne basterà) di scrivere per maggiore
@@ -434,7 +434,7 @@
                                         <orig>.XV.</orig>
                                         <corr>15</corr>
                                     </choice> anni<lb/> continovi premuto l’havea, non pure sogliono, ma
-                                possono occorrere. </del></rdg>
+                                possono occorrere. </rdg>
                             </rdgGrp>
                             <rdgGrp ana="#rec2">
                                 <rdg cause="del" wit="#RC4c"> </rdg>
