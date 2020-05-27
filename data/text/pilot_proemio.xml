@@ -253,7 +253,7 @@
                         <persName ref="#Cosimo">SIGNOR COSIMO <del hand="#A2">DE’<lb/></del>
                         MEDICI</persName>, DUCA SECONDO DI <lb/> FIRENZE <lb/><lb/>PROEMIO &#9753;</head>
                 <p>
-                <choice><sic>L'INTENDIMENTO</sic><corr>L'intendimento</corr></choice> nostro è di dovere con quella diligenza, e verità,<lb/> che<del>
+                <choice><sic>L'INTENDIMENTO</sic><corr>L'intendimento</corr></choice> nostro è di dovere con quella diligenza, e verità,<lb/> che<del hand="#A3">
                     <app type="recensio">
                         <rdgGrp ana="#rec1">
           
@@ -262,9 +262,12 @@
                     </rdg>
                         </rdgGrp>
                         <rdgGrp ana="#rec2">
-                        <rdg wit="#RC4c" cause="add">
+                            
+                        <rdg wit="#RC4c" cause="add"><add hand="#A2">
                             trentatre
+                        </add>
                         </rdg>
+                           
                         </rdgGrp> 
                         </app>
                 </del>
