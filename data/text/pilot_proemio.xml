@@ -230,12 +230,7 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <facsimile xml:id="fac_VASTO">
-        
-        <surface xml:id="surf_fol_8r" corresp="#fol_8r">
-            <graphic height="1800px" width="1200px"/>
-        </surface>
-    </facsimile>
+  
     <text n="Storia Fiorentina" xml:id="Storia_Fiorentina">
         <front> 
             
