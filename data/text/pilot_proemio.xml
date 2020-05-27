@@ -41,6 +41,7 @@
                     <interpGrp>
                         <interp xml:id="rec1">Recensio 1</interp>
                         <interp xml:id="rec2">Censura</interp>
+                        <interp xml:id="rec3">Recensio 3</interp>
                     </interpGrp>
                 </edition>
             </editionStmt>
