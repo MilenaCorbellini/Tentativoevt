@@ -257,15 +257,15 @@
                     <app type="recensio"> 
                         <rdgGrp ana="#rec1">
          
-                            <rdg wit="#RC4" hand="#A1">
-                                <del hand="#A3">
+                            <rdg wit="#RC4">
+                                <del>
                     potremo,</del>
                     </rdg>
                             
                         </rdgGrp>
                         <rdgGrp ana="#rec2">
                             
-                        <rdg wit="#RC4c" cause="add"><add hand="#A2">
+                        <rdg wit="#RC4c" cause="add"><add>
                             trentatre
                         </add>
                         </rdg>
