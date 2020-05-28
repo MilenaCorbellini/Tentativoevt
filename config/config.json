@@ -130,14 +130,6 @@
    "maxWitsLoadTogether": 5,
 
    "witnessesGroups": [
-      {
-         "groupName" : "Grp_1",
-         "witnesses" : ["RC4"]
-     },
-     {
-         "groupName" : "Grp_2",
-         "witnesses" : ["RC4c"]
-     }
    ],
 
    "showInlineCriticalApparatus": true,
