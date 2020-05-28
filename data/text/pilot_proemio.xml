@@ -83,7 +83,29 @@
                             </physDesc>
                         </msDesc>
                     </witness>
-                    </listWit>                  
+                        <witness xml:id="RC4c">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Roma</settlement>
+                                    <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
+                                    <idno>RC4 censured</idno>
+                                </msIdentifier>
+                                <msContents>
+                                    <msItem>
+                                        <locus from="8v" to="13r">8v - 13r</locus>
+                                        <title type="work" subtype="prose">Proemio</title>
+                                        <incipit></incipit>
+                                        <explicit></explicit>
+                                    </msItem>
+                                </msContents>
+                                <physDesc>
+                                    <handDesc>
+                                        <handNote scribe="Baldini" xml:id="A3"> Mano di Baldini, interventi di correzioni e aggiunte;</handNote>
+                                    </handDesc>
+                                </physDesc>
+                            </msDesc>
+                        </witness>
+                    </listWit>
                 </listWit>
                 <listPerson>
                     <person xml:id="Famiglia_Medici">
