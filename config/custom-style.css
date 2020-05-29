@@ -100,7 +100,7 @@
 .criticalEdition .emph {font-weight:inherit}
 .criticalEdition [data-rend="italic"] {font-style:inherit !important}
 
-box[data-type="witness"] > * {color:red !important}
+div.box-body.Edition  {color:red !important}
 
 
 @media screen and (max-width: 1000px) and (min-width: 701px) {
