@@ -13,8 +13,8 @@
    "visCollTextUrl": "",
    "visCollStyleUrl": "",
    "visCollSvg": "data/viscoll/SVG/",
-   "visCollImageList": "data/viscoll/VB-imageList.xml",
-   "visCollDataModel": "data/viscoll/VB-dataModel.xml",
+   "visCollImageList": "",
+   "visCollDataModel": "",
 
    "defaultViewMode": "imgTxt",
    "availableViewModes": [
