@@ -100,7 +100,7 @@
 .criticalEdition .emph {font-weight:inherit}
 .criticalEdition [data-rend="italic"] {font-style:inherit !important}
 
-.box-body Edition .p .miaone {color:red !important}
+.box-body Edition {color:red !important}
 
 
 
