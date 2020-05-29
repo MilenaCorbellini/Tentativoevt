@@ -98,7 +98,7 @@ div.box-body.Edition  {font-size:83% !important; text-align:justify}
 .criticalEdition .lb[data-n], div.box-body.Edition .lb[data-n] {display:inline !important}
 .diplomaticEdition .lb[data-n], div.box-body.Edition .lb[data-n] {display:none!important}
 .criticalEdition .lb > br, div.box-body.Edition .lb > br {display:none !important}
-.criticalEdition .head > .lb, div.box-body.Edition .head > .lb {display:block !important}
+.criticalEdition .head > .lb, div.box-body.Edition .head > .lb {display:block !important; text-align: center !important;}
 .criticalEdition .orig, .criticalEdition .sic, .criticalEdition .abbr, div.box-body.Edition .orig, 
 div.box-body.Edition .sic, div.box-body.Edition .abbr {display:none}
 /*.criticalEdition .choice .corr, .criticalEdition .choice .reg, .criticalEdition .choice .expan {color:purple !important} */
