@@ -100,6 +100,8 @@
 .criticalEdition .emph {font-weight:inherit}
 .criticalEdition [data-rend="italic"] {font-style:inherit !important}
 
+.EditionInt .miaone {display: none !important}
+
 
 
 @media screen and (max-width: 1000px) and (min-width: 701px) {
