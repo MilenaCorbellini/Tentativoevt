@@ -251,7 +251,7 @@
 
         </front>
         <body>
-            <div n="Proemio" type="Proemio" xml:id="Proemio">
+            <div n="Proemio" xml:id="Proemio">
                 <pb n="8r" xml:id="fol_8r" facs="data/images/single/fol_8r.JPG"/>
                 <lb n="[8r]"/>
 
