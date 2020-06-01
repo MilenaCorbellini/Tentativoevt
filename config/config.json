@@ -107,14 +107,14 @@
       {
          "tagName": "date",
          "label": "Dates",
-         "available": true
+         "available": false
       }
    ],
    "otherEntitiesToHandle": [
       {
          "tagName": "date",
-         "label": "Date",
-         "available": false,
+         "label": "Dates",
+         "available": true,
          "color": "#cfc"
       },
       {
