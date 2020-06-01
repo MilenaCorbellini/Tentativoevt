@@ -105,8 +105,8 @@
          "available": true
       },
       {
-         "tagName": "orgName",
-         "label": "Organizations",
+         "tagName": "date",
+         "label": "Dates",
          "available": true
       }
    ],
@@ -114,7 +114,7 @@
       {
          "tagName": "date",
          "label": "Date",
-         "available": true,
+         "available": false,
          "color": "#cfc"
       },
       {
