@@ -102,7 +102,10 @@ div.box-body.Edition  {font-size:83% !important; text-align:justify}
 .criticalEdition .orig, .criticalEdition .sic, .criticalEdition .abbr, div.box-body.Edition .orig, 
 div.box-body.Edition .sic, div.box-body.Edition .abbr {display:none}
 /*.criticalEdition .choice .corr, .criticalEdition .choice .reg, .criticalEdition .choice .expan {color:purple !important} */
-.criticalEdition .del, div.box-body.Edition .del {display:inline !important}
+div.box-body.Edition .del {display:inline !important}
+.criticalEdition .del[data-hand="#A3"] {display:inline !important}
+.criticalEdition .del[data-hand="#A2"] {display:none !important}
+.inApparatus {display:none !important}
 
 .front .p .add {color:red !important}  
 .criticalEdition .persName .lb, div.box-body.Edition .persName .lb {display:inline}
