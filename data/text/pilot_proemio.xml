@@ -87,9 +87,6 @@
                                 </physDesc>
                             </msDesc>
                         </witness>
-                    </listWit>
-                    <listWit xml:id="rec2_wits" ana="#rec2" resp="#D.B.">
-                        <head>Censured Witness</head>
                         <witness xml:id="RC4c">
                             <msDesc>
                                 <msIdentifier>
@@ -115,6 +112,7 @@
                             </msDesc>
                         </witness>
                     </listWit>
+                  
 
                 </listWit>
                 <listPerson>
