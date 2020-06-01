@@ -48,6 +48,10 @@ div.box-body.Edition  {font-size:83% !important; text-align:justify}
 /* .diplomaticEdition .lb[data-n] {display:none}
 .criticalEdition .lb[data-n] {display:block !important} */
 
+.diplomaticEdition .sic, .diplomaticEdition .orig {color:inherit !important}
+.diplomaticEdition .choice .corr {display:none !important}
+.diplomaticEdition .choice .sic {text-decoration:none !important}
+
 .diplomaticEdition .add[data-place="margin"] {
     width:20% !important ;
     float:right !important ; 
