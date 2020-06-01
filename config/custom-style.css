@@ -79,7 +79,7 @@ div.box-body.Edition  {font-size:83% !important; text-align:justify}
 .diplomaticEdition .add[data-place="bottom"]{ 
     display: block !important; 
     position: absolute !important; 
-    bottom: -15em !important;
+    bottom: -20em !important;
     
 }
 
