@@ -108,7 +108,7 @@ div.box-body.Edition .sic, div.box-body.Edition .abbr {display:none}
 .criticalEdition .persName .lb, div.box-body.Edition .persName .lb {display:inline}
 .criticalEdition .emph, div.box-body.Edition .emph {font-weight:inherit}
 .criticalEdition [data-rend="italic"], div.box-body.Edition [data-rend="italic"] {font-style:inherit !important}
-
+.criticalEdition [data-n="miaone"]:hover, .criticalEdition [data-n="miaone"], div.box-body.Edition [data-n="miaone"]:hover, div.box-body.Edition [data-n="miaone"] {background:inherit !important}
 
 @media screen and (max-width: 1000px) and (min-width: 701px) {
   .diplomatic, [data-place="bottom"] {
