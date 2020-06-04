@@ -71,6 +71,10 @@
                                         <locus from="8r" to="13r">8r - 13r</locus>
                                         <title type="work" subtype="prose">Proemio</title>
                                     </msItem>
+                                    <msItem>
+                                        <locus from="p.459" to="p.537">459 - 537</locus>
+                                        <title type="work" subtype="prose">Libro VII</title>   
+                                    </msItem>
 
                                 </msContents>
                                 <physDesc>
@@ -99,6 +103,11 @@
                                         <title type="work" subtype="prose">Proemio</title>
                                         <incipit/>
                                         <explicit/>
+                                     
+                                    </msItem>
+                                    <msItem>
+                                    <locus from="p.459" to="p.537">459 - 537</locus>
+                                        <title type="work" subtype="prose">Libro VII</title>   
                                     </msItem>
                                 </msContents>
                                 <physDesc>
@@ -537,7 +546,10 @@
                             <reg resp="#D.B."/>
                         </choice><lb/>gere non pochi parte Zibaldoni (che così gli chiamano) e parte
                         scar</del><pb n="11r" xml:id="fol_11r" facs="data/images/single/fol_11r.JPG"
-                        /><del hand="#A3"> tabelli, e scartafacci di diverse persone, le quali in
+                        />
+                        <app>
+                            <lem wit="#RC4" hand="#A1">
+                                <del hand="#A3"> tabelli, e scartafacci di diverse persone, le quali in
                         varij tempi le <lb/> cose che nella città si facevano, ò si dicevano, di
                         giorno in giorno<lb/> piu tosto con molta diligenza, e curiosità (del che
                         non poco si de<choice>
@@ -576,14 +588,19 @@
                         </choice><lb/>di lo stame, e la trama procacciare, onde la te<del hand="#A2"
                             >r</del><add hand="#A2">l</add>a nostra prima <lb/>ordire, e poi tessere
                         si potesse, trovai tanto non pure diverso, <lb/>ma contrario quello, che
-                        dagl’huomini universalmente si fa, à <lb/>quello che non solamente da i
+                        dagl’huomini universalmente si fa, à
+                            <lb/>quello che non solamente da i
                         Cristiani Teolog<del hand="#A2">a</del><add hand="#A2">i</add>, ma eziandio
                         da<lb/> i Filosofi gentili si scrive, che fare si doverrebbe, che io venni
                         in dub<choice>
                             <orig>-</orig>
                             <reg resp="#D.B."/>
                         </choice><lb/>bio meco stesso, e fui molte fïate molto vicino à far credere
-                        à </del><pb n="11v" xml:id="fol_11v" facs="data/images/single/fol_11v.JPG"
+                        à </del>
+                            </lem>
+                            <rdg cause="del" wit="#RC4c"></rdg>
+                        </app>
+                    <pb n="11v" xml:id="fol_11v" facs="data/images/single/fol_11v.JPG"
                         /><del hand="#A3">me medesimo, che le cose humane non da ragione, e
                         giudizio, ma dal<choice>
                             <orig>-</orig>
@@ -761,6 +778,11 @@
                     <span n="miaone_centrale">cominciamento alla Storia. &#9753; </span></p>
 
 
+            </div>
+            <div n="Libro VII" type="text" xml:id="Libro_VII">
+                <p>
+                    
+                </p>
             </div>
         </body>
     </text>
