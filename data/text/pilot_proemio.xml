@@ -550,13 +550,10 @@
                         <app>
                             <lem wit="#RC4" hand="#A1">
                                 <del hand="#A3"> tabelli, e scartafacci di diverse persone, le quali in
-                        varij tempi le <lb/> cose che nella città si facevano, ò si dicevano, di
+                        <choice><orig>varij</orig><corr>varii</corr></choice> tempi le <lb/> cose che nella città si facevano, ò si dicevano, di
                         giorno in giorno<lb/> piu tosto con molta diligenza, e curiosità (del che
-                        non poco si de<choice>
-                            <orig>-</orig>
-                            <reg resp="#D.B."/>
-                        </choice><lb/>ve loro obligo havere) che con alcuno ordine, ò studio
-                        andavano <lb/>in sù detti stracciafogli notando, e sopra esse alcune fiate,
+                        non poco si de<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>ve loro obligo havere) che con alcuno ordine, ò studio
+                        andavano <lb/>in <choice><orig>sù</orig><corr>su</corr></choice> detti stracciafogli notando, e sopra esse alcune fiate,
                         ma <lb/>bene spesso piu secondo le passioni, e cotale alla grossa, che secon<choice>
                             <orig>-</orig>
                             <reg resp="#D.B."/>
