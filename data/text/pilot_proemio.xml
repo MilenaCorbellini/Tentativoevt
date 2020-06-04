@@ -68,10 +68,8 @@
                                 </msIdentifier>
                                 <msContents>
                                     <msItem>
-                                        <locus from="8v" to="13r">8v - 13r</locus>
+                                        <locus from="8r" to="13r">8r - 13r</locus>
                                         <title type="work" subtype="prose">Proemio</title>
-                                        <incipit>DELLA STORIA FIORENTINA</incipit>
-                                        <explicit>cominciamento alla Storia.</explicit>
                                     </msItem>
 
                                 </msContents>
@@ -93,11 +91,11 @@
                                     <settlement>Roma</settlement>
                                     <repository>Accademia Nazionale dei Lincei e
                                         Corsiniana</repository>
-                                    <idno>RC4 censured</idno>
+                                    <idno>RC4 censurato</idno>
                                 </msIdentifier>
                                 <msContents>
                                     <msItem>
-                                        <locus from="8v" to="13r">8v - 13r</locus>
+                                        <locus from="8r" to="13r">8r - 13r</locus>
                                         <title type="work" subtype="prose">Proemio</title>
                                         <incipit/>
                                         <explicit/>
